@@ -28,6 +28,6 @@ def valid_move?(board, index)
 end
 
 def move(board, index, x)
-  board[8] == "X"
-  board[0] == "O"
+  board[0] == "X"
+  board[8] == "O"
 end
