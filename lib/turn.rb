@@ -31,5 +31,5 @@ def move(board, index, x)
   board[index]
   board[x] = "X"
 end
-move(board, 0, "O")
+  move(board, 0, "O")
 end
