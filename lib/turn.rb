@@ -33,3 +33,5 @@ def move(board, index, x)
 end
 move(board, 0, "O")
 end
+end
+
