@@ -31,5 +31,3 @@ def move(board, index, x)
   board[index]
   board[x] = "X"
 end
-  
-end
