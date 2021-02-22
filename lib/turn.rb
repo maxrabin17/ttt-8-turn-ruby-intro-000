@@ -27,7 +27,7 @@ def valid_move?(board, index)
   end
 end
 
-def move(board, index, X)
+def move(board, index, x)
   board[8] == "X"
   board[0] == "O"
 end
